@@ -1,4 +1,6 @@
 # database
 Little Database Program.
 
-But I can't add a Delete Button. 
+# Update v.0.1
+Added Delete button for Delete all rows in the DB file.
+Some issues have been resolved.
