@@ -17,3 +17,7 @@ Some issues have been resolved.
 Added Clock to right-bottom. 
 Created Menu to Admin-gui. Menu has Sign out Button. Also if we login as admin, we see Information screen before opened GUI of admin.
 Some issues have been resolved.
+
+# Update v.1.3
+Added take to Treeview widget to Customer and Personnel use with Id number.
+Some issues have been resolved.
